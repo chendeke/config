@@ -1,0 +1,3 @@
+logs:
+  level: dev
+  encode: console #json or console

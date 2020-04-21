@@ -1,0 +1,3 @@
+logs:
+  level: prod
+  encode: json

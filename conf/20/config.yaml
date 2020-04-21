@@ -1,0 +1,8 @@
+logs:
+  level: a20
+  encode: json #json or console
+  levelPort: 5053
+  levelPattern: /handle/level
+  initFields:
+    company: wayz
+    app: yourapp
